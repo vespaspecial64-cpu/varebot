@@ -9,34 +9,31 @@ const pkg = JSON.parse(fs.readFileSync('./package.json', 'utf-8'))
 global.prefisso = '.'
 global.sam = ['393514357738',]
 global.owner = [
-  ['393476686131', 'sam', true],
-  ['393511082922', 'gio', true],
-  ['393392645292', 'mavko', true],
-  ['212614769337', 'zexin/giuse', true],
-  ['393514357738', 'vare', true],
-  ['393715983481', 'youns/kinderino', true],
+  ['3926427789', 'knor', true],
+  ['212679283897', 'endy', true],
+  ['12343764029', 'estreia', true],
+  ['212784528076', 'riley', true],
+  ['16802557306', 'endy 2', true],
+  ['xxxxxxxxxx'],
 
 ]
-global.mods = ['393514357738', '393511082922', '393392645292']
-global.prems = ['393514357738', '393511082922', '212614769337']
+global.mods = ['xxxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
+global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
 
 /*⭑⭒━━━✦❘༻🩸 INFO BOT 🕊️༺❘✦━━━⭒⭑*/
 
-global.nomepack = 'vare ✧ bot'
-global.nomebot = '✧˚🩸 varebot 🕊️˚✧'
-global.wm = 'vare ✧ bot'
-global.autore = 'SⒶ𝔪'
-global.dev = '⋆｡˚- SⒶ𝔪'
-global.testobot = `༻⋆⁺₊𝓿𝓪𝓻𝓮𝓫𝓸𝓽₊⁺⋆༺`
+global.nomepack = 'knor ✧ bot'
+global.nomebot = '✧˚🩸 knorbot 🕊️˚✧'
+global.wm = 'knor ✧ bot'
+global.autore = 'knor'
+global.dev = '⋆｡˚- 'knor'
+global.testobot = `༻⋆⁺₊knor𝓫𝓸𝓽₊⁺⋆༺`
 global.versione = pkg.version
 global.errore = '⚠️ *Errore inatteso!* Usa il comando `.segnala <errore>` per avvisare lo sviluppatore.'
 
-/*⭑⭒━━━✦❘༻� LINK 🌐༺❘✦━━━⭒⭑*/
 
-global.repobot = 'https://github.com/realvare/varebot'
-global.gruppo = 'https://chat.whatsapp.com/bysamakavare'
-global.canale = 'https://whatsapp.com/channel/0029VbB41Sa1Hsq1JhsC1Z1z'
-global.insta = 'https://www.instagram.com/samakavare'
+
+
 
 /*⭑⭒━━━✦❘🗝️ API KEYS 🌍༺❘✦━━━⭒⭑*/
 
