@@ -14,7 +14,7 @@ global.owner = [
   ['12343764029', 'estreia', true],
   ['212784528076', 'riley', true],
   ['16802557306', 'endy 2', true],
-  ['212771384589' boh random forte],
+  ['212771384589' stella],
 
 ]
 global.mods = ['xxxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
