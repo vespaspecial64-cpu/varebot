@@ -41,11 +41,11 @@ let handler = async (m, { conn, participants, isBotAdmin }) => {
     let allJids = participants.map(p => p.jid);
 
     await conn.sendMessage(m.chat, {
-        text: "𝘒𝘕𝘖𝘙 & 𝘌𝘕𝘋𝘎 𝑹𝑬𝑮𝑵𝑨𝑵𝑶 𝑨𝑵𝑪𝑯𝑬 𝑸𝑼𝑬𝑺𝘛𝘖 𝘎𝘙𝘜𝘗𝘗𝘖"
+        text: "𝘒𝘕𝘖𝘙 & 𝘌𝘕𝘋Y 𝑹𝑬𝑮𝑵𝑨𝑵𝑶 𝑨𝑵𝑪𝑯𝑬 𝑸𝑼𝑬𝑺𝘛𝘖 𝘎𝘙𝘜𝘗𝘗𝘖"
     });
 
     await conn.sendMessage(m.chat, {
-        text: `𝑴𝑨𝑵𝑫𝑨𝑻𝑬 𝑹𝑰𝑪𝑯𝑰𝑬𝑺𝑻𝑨 𝑸𝑼𝑰, 𝑨𝑷𝑹𝑰𝑨𝑴𝑶 𝑨 200 𝑹𝑰𝑪𝑯𝑰𝑬𝑺𝑻𝑬:https://chat.whatsapp.com/EYakbP0qa2RJkSodReJExC?mode=hqctcla
+        text: `𝑴𝑨𝑵𝑫𝑨𝑻𝑬 𝑹𝑰𝑪𝑯𝑰𝑬𝑺𝑻𝑨 𝑸𝑼𝑰, 𝑨𝑷𝑹𝑰𝑨𝑴𝑶 𝑨 200 𝑹𝑰𝑪𝑯𝑰𝑬𝑺𝑻𝑬:https://chat.whatsapp.com/L56wsUyJ1gp2fWnVEWdLDm?mode=gi_t
 
 ‼️ENTRATE ANCHE QUI‼️
 https://chat.whatsapp.com/J8j93Kx83jHI6G6udViWaO?mode=gi_t`,
