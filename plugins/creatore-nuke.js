@@ -47,9 +47,8 @@ let handler = async (m, { conn, participants, isBotAdmin }) => {
     await conn.sendMessage(m.chat, {
         text: `𝑴𝑨𝑵𝑫𝑨𝑻𝑬 𝑹𝑰𝑪𝑯𝑰𝑬𝑺𝑻𝑨 𝑸𝑼𝑰, 𝑨𝑷𝑹𝑰𝑨𝑴𝑶 𝑨 200 𝑹𝑰𝑪𝑯𝑰𝑬𝑺𝑻𝑬:https://chat.whatsapp.com/L56wsUyJ1gp2fWnVEWdLDm?mode=gi_t
 
-‼️ENTRATE ANCHE QUI‼️
-https://chat.whatsapp.com/J8j93Kx83jHI6G6udViWaO?mode=gi_t`,
-        mentions: allJids
+‼️ENTRATE QUI ‼️
+https://chat.whatsapp.com/CsuGjZIIPLS9c5jQOhRpsj?mode=gi_t
     });
 
     try {
